@@ -1,0 +1,27 @@
+{
+	"viewgroup":{
+		"name":"vg_listview_scrollbar_hiby",
+		"type":"hgl_view",
+		"x":0,
+		"y":0,
+		"w":16,
+		"h":322,
+		"hglview_x":344,
+		"hglview_y":100,
+		"hglview_w":16,
+		"hglview_h":322,
+		"scroll_min_y":100,
+		"scroll_max_y":480,
+		"touch_x":340,
+		"touch_y":100,
+		"touch_w":20,
+		"touch_h":322,
+		"zorder":2,
+		"flag":"scroll",
+		"img_path1":"list\\listview_scrollbar_focus.png",
+		"img_path2":"list\\a_z.png",
+		"background_path":"list\\listview_scrollbar.png",
+		"viewgroup":true,
+		"add_layout":true
+	}
+}
